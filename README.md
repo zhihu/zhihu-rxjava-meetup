@@ -2,8 +2,9 @@
 
 # 知乎 x RxJava Meetup
 
-## 活动简介
-https://zhuanlan.zhihu.com/p/29446195
+## 活动简介 & 后记
+- https://zhuanlan.zhihu.com/p/29446195  
+- https://zhuanlan.zhihu.com/p/29935058
 
 ## Slides & Videos
 - [Slides](slides)
