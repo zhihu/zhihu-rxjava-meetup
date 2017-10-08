@@ -2,4 +2,12 @@
 
 # 知乎 x RxJava Meetup
 
-三位讲师的 [slides](slides) 已上传。照片和视频，待整理好以后会继续分享到这里。
+## 活动简介
+https://zhuanlan.zhihu.com/p/29446195
+
+## Slides & Videos
+- [Slides](slides)
+- [活动视频](http://v.qq.com/vplus/d291e0b195ba5005def1e7c7ee68744c/foldervideos/p7j000901ynicob)
+  - [RxJava 概念完全介绍与上手建议 - 朱凯](https://v.qq.com/x/page/y05583hqoq1.html)
+  - [如何把 RxJava 应用到知乎 - 何若昕](https://v.qq.com/x/page/d05581btuhg.html)
+  - [Rx 在 Zhihu 的历史 - 杨凡](https://v.qq.com/x/page/a0558l9bhxk.html)
